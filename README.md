@@ -17,7 +17,6 @@
 ## General Information
 - This Project is part of the pathway to become a certified full-stack developer at [_Codecademy_] (https://www.codecademy.com).
 - Merging together everything I've learned so far in front-end development.
-- To showcase my newly gained skills in front-end web development and 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -52,6 +51,7 @@ Room for improvement:
 -->
 To do:
 - Planning and design
+- Logo sketched
 - Wireframe the webpage
 - Build it
 
