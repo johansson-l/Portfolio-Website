@@ -4,5 +4,9 @@
 
 body {
     display: grid;
-    gap: 20px;
+    gap: 10px;
+}
+
+.skill-logos img {
+    width: 100px;
 }
