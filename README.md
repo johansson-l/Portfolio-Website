@@ -16,12 +16,12 @@
 
 ## General Information
 - This Project is part of the pathway to become a certified full-stack developer at [_Codecademy_] (https://www.codecademy.com).
-- Merging together everything I've learned so far in front-end development.
+- Merging together what I've learned so far in front-end development.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- HTML5
+- HTML
 - CSS
 
 <!-- Not ready yet
@@ -44,17 +44,19 @@ Project is: _in progress_ <!-- / _complete_ / _no longer being worked on_. If yo
 
 ## Room for Improvement
 <!-- Include areas you believe need improvement / could be improved. Also add TODOs for future development. -->
-<!--
+
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
--->
+- Colors
+- Optimize grid and flex
+- Add actual text to the different sections
+- Show the different projects that I've been working on
+<!--
 To do:
 - Planning and design
 - Logo sketched
 - Wireframe the webpage
 - Build it
-
+-->
 
 ## Acknowledgements
 - This project was inspired by Codecademy.
