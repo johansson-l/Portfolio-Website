@@ -76,5 +76,65 @@
 }
 
 @media screen and (min-width: 600px) {
-    
+    .wrapper {
+        display: grid;
+        gap: 20px;
+        grid-template-columns: 200px 150px 1fr;
+        grid-template-rows: 100vh;
+        grid-auto-rows: 500px;
+    }
+
+    body {
+        background-color: rgba(0, 0, 0, 0.637);
+    }
+
+    .navigation {
+        grid-column: 1;
+        grid-row: 1;
+        background-color: rgba(155, 154, 154, 0.623);
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        margin-top: 200px;
+    }
+
+    nav button {
+        margin: 20px;
+    }
+
+    button a {
+        font-size: 28px;
+    }
+
+    header {
+        margin-top: 250px;
+        grid-column: 3;
+        grid-row: 1;
+    }
+
+    .about {
+        grid-column: 3;
+        grid-row: 2;
+    }
+
+    .skills {
+        grid-column: 3;
+        grid-row: 3;
+    }
+
+    .skill-logos img {
+        height: 70px;
+    }
+
+    .projects {
+        grid-column: 3;
+        grid-row: 4;
+    }
+
+    .contact {
+        grid-column: 3;
+        grid-row: 5;
+    }
 }
